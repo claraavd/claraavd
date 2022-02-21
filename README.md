@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @claraavd 
+- 👋 Hi, I’m @claraavd | Learning new things 
 
 <!---
 claraavd/claraavd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
